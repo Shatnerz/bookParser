@@ -1,0 +1,8 @@
+chapitre	chapter
+38	38
+la	the
+deuxième	second
+guerre	war
+commence	begins
+page	page
+594	594

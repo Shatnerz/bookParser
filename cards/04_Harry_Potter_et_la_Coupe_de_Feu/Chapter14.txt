@@ -1,0 +1,10 @@
+chapitre	chapter
+6	6
+–	-
+l’arlequin	the harlequin
+et	and
+son	its
+usine	factory
+à	to
+jouets	toys
+85	85

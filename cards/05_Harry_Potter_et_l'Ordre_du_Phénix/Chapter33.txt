@@ -1,0 +1,7 @@
+chapitre	chapter
+33	33
+combattre	fight
+et	and
+voler	fly
+page	page
+529	529

@@ -1,0 +1,10 @@
+ruby bookParser.rb <book.pdf>
+
+tested with https://thepiratebay.se/torrent/4296027/Harry_Potter_%281-7%29_Complete_Series_in_French_%5BBooks__PDF__French
+
+Requires pdftohtml
+Use pdftohtml to convert to html or xml
+    pdftohtml -xml book.pdf book.xml
+    
+Required gems
+nokogiri

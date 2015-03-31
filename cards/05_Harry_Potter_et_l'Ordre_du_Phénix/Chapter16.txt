@@ -1,0 +1,8 @@
+chapitre	chapter
+16	16
+la	the
+tête	head
+de	of
+cochon	pig
+page	page
+237	237

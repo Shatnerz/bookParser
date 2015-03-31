@@ -1,0 +1,8 @@
+chapitre	chapter
+25	25
+le	the
+scarabée	beetle
+aux	the
+abois	bay
+page	page
+386	386

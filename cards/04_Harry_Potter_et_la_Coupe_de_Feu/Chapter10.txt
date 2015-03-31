@@ -1,0 +1,7 @@
+chapitre	chapter
+2	2
+–	-
+le	the
+tableau	table
+mystérieux	mysterious
+15	15

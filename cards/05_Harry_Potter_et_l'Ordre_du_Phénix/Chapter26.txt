@@ -1,0 +1,7 @@
+chapitre	chapter
+26	26
+vu	seen
+et	and
+imprévu	unexpected
+page	page
+405	405

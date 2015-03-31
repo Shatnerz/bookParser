@@ -1,0 +1,5 @@
+11	11
+le	the
+club	club
+de	of
+duel	duel

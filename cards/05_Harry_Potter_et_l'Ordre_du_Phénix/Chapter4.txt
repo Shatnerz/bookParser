@@ -1,0 +1,7 @@
+chapitre	chapter
+4	4
+douze	twelve
+grimmauld	grimmauld
+place	place
+page	page
+45	45

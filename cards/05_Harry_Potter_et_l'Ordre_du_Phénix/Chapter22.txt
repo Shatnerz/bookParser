@@ -1,0 +1,12 @@
+chapitre	chapter
+22	22
+l’hopital	the hospital
+st	st
+mungo	mungo
+pour	for
+maladies	diseases
+et	and
+blessures	injuries
+magiques	magic
+page	page
+333	333

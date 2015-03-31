@@ -1,0 +1,10 @@
+chapitre	chapter
+11	11
+la	the
+nouvelle	new
+chanson	song
+du	the
+choipeau	choipeau
+magique	magic
+page	page
+146	146

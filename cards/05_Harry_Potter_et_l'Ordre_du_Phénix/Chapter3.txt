@@ -1,0 +1,7 @@
+chapitre	chapter
+3	3
+la	the
+garde	guard
+rapprochée	close-up
+page	page
+31	31

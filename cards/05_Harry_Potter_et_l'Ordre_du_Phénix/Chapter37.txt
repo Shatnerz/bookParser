@@ -1,0 +1,7 @@
+chapitre	chapter
+37	37
+la	the
+prophétie	prophecy
+perdue	lost
+page	page
+576	576

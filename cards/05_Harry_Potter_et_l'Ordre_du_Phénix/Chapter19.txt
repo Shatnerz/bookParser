@@ -1,0 +1,8 @@
+chapitre	chapter
+19	19
+le	the
+lion	lion
+et	and
+serpent	snake
+page	page
+286	286

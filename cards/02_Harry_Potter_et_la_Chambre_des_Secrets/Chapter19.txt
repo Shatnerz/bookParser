@@ -1,0 +1,5 @@
+1	1
+un	a
+trÈs	very
+mauvais	bad
+anniversaire	anniversary

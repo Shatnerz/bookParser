@@ -1,0 +1,8 @@
+chapitre	chapter
+23	23
+noël	christmas
+sous	under
+haute	high
+surveillance	monitoring
+page	page
+351	351
